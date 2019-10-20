@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.TreeMap"/>
+<fullyQualifiedTypeName name="cmsc420.drawing.CanvasPlus"/>
+<fullyQualifiedTypeName name="java.awt.Color"/>
+<fullyQualifiedTypeName name="cmsc420.command.QuadTree.CityOutOfBoundsException"/>
+<fullyQualifiedTypeName name="cmsc420.structure.CityLocationComparator"/>
+<fullyQualifiedTypeName name="cmsc420.command.QuadTree.CityAlreadyMappedException"/>
+<fullyQualifiedTypeName name="cmsc420.geom.Circle2D"/>
+<fullyQualifiedTypeName name="java.awt.geom.Rectangle2D.Double"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.awt.geom.Point2D"/>
+<fullyQualifiedTypeName name="java.awt.geom.Rectangle2D.Float"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="java.awt.geom.Rectangle2D"/>
+<fullyQualifiedTypeName name="cmsc420.command.QuadTree.TreeNode"/>
+<fullyQualifiedTypeName name="cmsc420.command.QuadTree.TreeLeaf"/>
+<fullyQualifiedTypeName name="cmsc420.command.QuadTree.NormalNode"/>
+<fullyQualifiedTypeName name="cmsc420.exception.CityAlreadyMappedException"/>
+<fullyQualifiedTypeName name="cmsc420.command.Geomm"/>
+<fullyQualifiedTypeName name="cmsc420.structure.City"/>
+<fullyQualifiedTypeName name="cmsc420.structure.CityNameComparator"/>
+<fullyQualifiedTypeName name="cmsc420.meeshquest.part2.Road"/>
+<fullyQualifiedTypeName name="cmsc420.command.Command"/>
+<fullyQualifiedTypeName name="cmsc420.geom.Shape2DDistanceCalculator"/>
+<fullyQualifiedTypeName name="cmsc420.pmquadtree.PMQuadtree"/>
+<fullyQualifiedTypeName name="cmsc420.sortedmap.AvlGTree"/>
+<fullyQualifiedTypeName name="cmsc420.pmquadtree.PM3Quadtree"/>
+<fullyQualifiedTypeName name="cmsc420.pmquadtree.Road"/>
+<fullyQualifiedTypeName name="cmsc420.geom.Inclusive2DIntersectionVerifier"/>
+<fullyQualifiedTypeName name="cmsc420.pmquadtree.PMQuadtree.WhiteNode"/>
+<fullyQualifiedTypeName name="cmsc420.pmquadtree.PMQuadtree.BlackNode"/>
+<fullyQualifiedTypeName name="cmsc420.pmquadtree.PMQuadtree.GreyNode"/>
+<fullyQualifiedTypeName name="java.util.SortedMap"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="cmsc420.prquadtree.PRQuadtree"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="cmsc420.pmquadtree.PM1Quadtree"/>
+<fullyQualifiedTypeName name="cmsc420.pmquadtree.RoadIntersectsThrowable"/>
+<fullyQualifiedTypeName name="cmsc420.exception.CityOutOfBoundsException"/>
+</qualifiedTypeNameHistroy>
